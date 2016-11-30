@@ -29,6 +29,7 @@ public class MainService extends Service {
         super.onCreate();
         Toast.makeText(MainService.this, "Service Started", Toast.LENGTH_SHORT).show();
 
+
     }
 
 
