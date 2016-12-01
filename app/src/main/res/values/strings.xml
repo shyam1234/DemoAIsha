@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DemoAIsha</string>
+    <string name="speech_not_supported">speech not supported</string>
+    <string name="speech_prompt">Say somthing</string>
 </resources>
